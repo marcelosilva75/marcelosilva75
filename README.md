@@ -1,5 +1,9 @@
 # 👨‍💻 Marcelo Pinto da Silva
 
+## 🚀 Linguagens e Tecnologias
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosilva75&layout=compact&langs_count=8&theme=dark)](https://github.com/marcelosilva75)
+
 🔐 **Especialista em Segurança da Informação**  
 📍 São Gonçalo – RJ | Disponível para mudanças e viagens  
 📧 [si_marcelo@hotmail.com](mailto:si_marcelo@hotmail.com)  
@@ -71,6 +75,7 @@ _(Mais experiências disponíveis no LinkedIn)_
 🔸 Condução de **treinamentos e campanhas de conscientização** em segurança cibernética  
 
 ---
+
 
 ## 📫 Contato
 📧 Email: [si_marcelo@hotmail.com](mailto:si_marcelo@hotmail.com)  
