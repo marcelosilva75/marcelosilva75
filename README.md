@@ -20,10 +20,13 @@ Atuação em **infraestrutura crítica**, garantindo conformidade com normas com
 ---
 
 
-## 🎓 Formação Acadêmica
+# Formação Acadêmica  
+
 🎓 **MBA em Governança, Projetos e Serviços de TI** – UFRJ (2025)  
 📚 **Especialização em Gestão de TI na Administração Pública** – UCAM (2020)  
-📚 **Especialização em Sistema de Informação** – PUC-RIO (2007) 
+📚 **Especialização em Sistemas de Informação** – PUC-RIO (2007)  
+📚 **Bacharelado em Sistemas de Informação** – Faculdades Paraíso (2005)  
+
  
 
 ---
