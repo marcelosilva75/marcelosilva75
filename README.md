@@ -70,12 +70,31 @@ _(Mais experiências disponíveis no LinkedIn)_
 ---
 
 ## 🚀 Projetos & Contribuições
-🔸 Implementação de **programas de governança de TI** alinhados às normas ISO 27001 e LGPD  
-🔸 Desenvolvimento de **políticas de segurança** para grandes organizações  
-🔸 Condução de **treinamentos e campanhas de conscientização** em segurança cibernética  
+
+🔸 Governança de TI e Conformidade
+- Implementação de Programas de Governança de TI alinhados às normas ISO 27001 e LGPD, fortalecendo a segurança e conformidade organizacional.
+Adequação à LGPD e ISO 27001
+ * Descrição: Liderança na implementação de políticas e controles de segurança para garantir conformidade com a Lei Geral de Proteção de Dados (LGPD) e os padrões ISO 27001.
+ * Tecnologias utilizadas: OneTrust, Microsoft Compliance Center.
+* Resultados: Redução de riscos jurídicos e aprimoramento da governança de dados.
+
+🔸 Segurança Cibernética e Monitoramento
+- Implementação de SIEM e Monitoramento de Segurança
+ * Descrição: Planejamento e implantação de Soluções SIEM (Security Information and Event Management) para monitoramento contínuo, detecção de ameaças e resposta a incidentes.
+ * Tecnologias utilizadas: Wazuh, ELK Stack, Microsoft Sentinel, Graylog.
+ * Resultados: Melhoria significativa na visibilidade de ameaças e redução do tempo de resposta a incidentes.
+
+🔸 Gestão de Incidentes e Resposta a Ameaças
+* Descrição: Desenvolvimento de processos eficazes para detecção, análise e mitigação de incidentes de segurança, seguindo frameworks como NIST e MITRE ATT&CK.
+* Ferramentas utilizadas: IDS/IPS, SIEM, Kaspersky Security Center, Análise Forense.
+* Resultados: Redução do tempo de resposta e mitigação eficaz de ameaças.
+
+🔸 Segurança em Cloud Computing (AWS/Azure/OCI)
+ * Descrição: Implementação de estratégias avançadas para segurança na nuvem, incluindo gestão de identidade (IAM), monitoramento proativo e criptografia de dados.
+ * Tecnologias utilizadas: AWS Security Hub, Azure Security Center, Oracle Cloud Security.
+ * Resultados: Maior proteção contra acessos não autorizados e prevenção de vazamento de dados.
 
 ---
-
 
 ## 📫 Contato
 📧 Email: [si_marcelo@hotmail.com](mailto:si_marcelo@hotmail.com)  
