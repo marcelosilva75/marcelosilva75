@@ -28,6 +28,33 @@ Atuação em **infraestrutura crítica**, garantindo conformidade com normas com
 📚 **Bacharelado em Sistemas de Informação** – Faculdades Paraíso (2005)  
 
  
+---
+## 🚀 Habilidades Técnicas  
+
+### 🖥️ Linguagens de Programação  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### 🔐 Segurança da Informação  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Kaspersky](https://img.shields.io/badge/Kaspersky-008000?style=for-the-badge&logo=kaspersky&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-FF5733?style=for-the-badge&logo=security&logoColor=white)
+
+### ☁️ Cloud & Infra  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Veeam Backup](https://img.shields.io/badge/Veeam_Backup-00B336?style=for-the-badge&logo=veeam&logoColor=white)
+
+### 🛠️ Ferramentas  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004A99?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
