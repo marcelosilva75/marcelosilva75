@@ -39,7 +39,7 @@ Atuação em **infraestrutura crítica**, garantindo conformidade com normas com
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
-
+---
 ### 🔐 Segurança da Informação  
 ✔️ **SIEM, Firewalls, IDS/IPS, DLP, VPN**  
 
