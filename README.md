@@ -38,8 +38,10 @@ Atuação em **infraestrutura crítica**, garantindo conformidade com normas com
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
+</p>  
+
 ---
+
 ### 🔐 Segurança da Informação  
 ✔️ **SIEM, Firewalls, IDS/IPS, DLP, VPN**  
 
@@ -48,8 +50,11 @@ Atuação em **infraestrutura crítica**, garantindo conformidade com normas com
   <img src="https://img.shields.io/badge/Kaspersky-008000?style=for-the-badge&logo=kaspersky&logoColor=white"/>
   <img src="https://img.shields.io/badge/Security%20Onion-1E90FF?style=for-the-badge&logo=securityonionsolutions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Veeam%20Backup-00B336?style=for-the-badge&logo=veeam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blockbit-FF4500?style=for-the-badge&logo=cybersecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco%20ASA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fortinet-ED1C24?style=for-the-badge&logo=fortinet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-</p>
+</p>  
 
 ---
 
