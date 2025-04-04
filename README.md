@@ -9,7 +9,7 @@
 📧 [si_marcelo@hotmail.com](mailto:si_marcelo@hotmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/marcelo-silva-a439a28/)  
 
-## 🙋‍♂️ Sobre mim
+## 🙋‍♂ Sobre mim
 Profissional com mais de 15 anos de experiência em **Segurança da Informação**, com foco em **governança, auditoria e implementação de soluções de cibersegurança**.  
 Atuação em **infraestrutura crítica**, garantindo conformidade com normas como **ISO 27001 e LGPD**.  
 
@@ -112,7 +112,7 @@ Atuação em **infraestrutura crítica**, garantindo conformidade com normas com
 ---
 
 ### 🔐 Forense Digital & Pentest  
-✔️ **Ethical Hacking, Cyber Threat Hunting**  <p align="left">
+✔️ **Ethical Hacking, Cyber Threat Hunting, OSINT**  <p align="left">
   <img src="https://img.shields.io/badge/CEH-v11-red?style=for-the-badge&logo=ethicalhacking&logoColor=white"/>
   <img src="https://img.shields.io/badge/Threat%20Hunting-181717?style=for-the-badge&logo=cybersecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
@@ -120,6 +120,8 @@ Atuação em **infraestrutura crítica**, garantindo conformidade com normas com
   <img src="https://img.shields.io/badge/Metasploit-4479A1?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maltego-2C3E50?style=for-the-badge&logo=maltego&logoColor=white"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white"/>
+
 </p>
 
 
