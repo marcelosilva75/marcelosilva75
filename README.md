@@ -47,6 +47,7 @@ Atuação em **infraestrutura crítica**, garantindo conformidade com normas com
 
 <p align="left">
   <img src="https://img.shields.io/badge/Wazuh-5A5A5A?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Graylog-D7191C?style=for-the-badge&logo=graylog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kaspersky-008000?style=for-the-badge&logo=kaspersky&logoColor=white"/>
   <img src="https://img.shields.io/badge/Security%20Onion-1E90FF?style=for-the-badge&logo=securityonionsolutions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Veeam%20Backup-00B336?style=for-the-badge&logo=veeam&logoColor=white"/>
