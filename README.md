@@ -31,59 +31,110 @@ Atuação em **infraestrutura crítica**, garantindo conformidade com normas com
 ---
 ## 🚀 Habilidades Técnicas  
 
-### 🖥️ Linguagens de Programação  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### 📜 Linguagens de Programação  
+✔️ **Python, Shell Script, C**  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 
 ### 🔐 Segurança da Informação  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-5A5A5A?style=for-the-badge&logo=wazuh&logoColor=white)
-![Kaspersky](https://img.shields.io/badge/Kaspersky-008000?style=for-the-badge&logo=kaspersky&logoColor=white)
+✔️ **SIEM, Firewalls, IDS/IPS, DLP, VPN**  
 
-
-### ☁️ Cloud & Infra  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Veeam Backup](https://img.shields.io/badge/Veeam_Backup-00B336?style=for-the-badge&logo=veeam&logoColor=white)
-
-### 🛠️ Ferramentas  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004A99?style=for-the-badge&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-5A5A5A?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaspersky-008000?style=for-the-badge&logo=kaspersky&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security%20Onion-1E90FF?style=for-the-badge&logo=securityonionsolutions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Veeam%20Backup-00B336?style=for-the-badge&logo=veeam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
 
 ---
 
-## 🏅 Certificações
-🔹 **CyberOps Associate** – Cisco (2024)  
-🔹 **Fortinet Certified Associate Cyber Security** – Fortinet (2023)  
-🔹 **ONETRUST Certified Privacy Professional** – OneTrust (2023)  
-🔹 **CEH - Certified Ethical Hacker** – Acadia-TI (2021) 
-🔹 **Auditor Interno ISO 9001:2015** – QWS Academy (2025)  
-🔹 **Cross-Sector Cybersecurity Performance Goals (CPG)** – DHS (2025)  
-🔹 **EXIN Information Security Management (ISO/IEC 27001)** – Adapt Now (2020)  
+### 💻 Administração de Sistemas  
+**Active Directory, Microsoft 365, SQL Server, MySQL, Virtualização, Hardening, Linux, LDAP, IAM**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LDAP-005CB9?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAM-800080?style=for-the-badge&logo=identity-management&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Virtualization-008000?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hardening-FFA500?style=for-the-badge&logo=security&logoColor=white"/>
+</p>
+
+---
+
+### 📜 Auditoria & Compliance  
+✔️ **ISO 27001, LGPD, GDPR, ITIL, COBIT**  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ISO%2027001-0073CF?style=for-the-badge&logo=iso&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LGPD-00ADEF?style=for-the-badge&logo=privacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GDPR-0033A0?style=for-the-badge&logo=privacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ITIL-652D90?style=for-the-badge&logo=itil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COBIT-005CB9?style=for-the-badge&logo=governance&logoColor=white"/>
+</p>
+
+---
+
+### ⚠️ Gerenciamento de Riscos  
+✔️ **Análise de Vulnerabilidades, Threat Intelligence**  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-FF5733?style=for-the-badge&logo=cybersecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pentest-5E5E5E?style=for-the-badge&logo=hackerone&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ Cloud Security  
+✔️ **AWS, Azure, GPC, OCI**  
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+---
+
+### 🔐 Forense Digital & Pentest  
+✔️ **Ethical Hacking, Cyber Threat Hunting**  <p align="left">
+  <img src="https://img.shields.io/badge/CEH-v11-red?style=for-the-badge&logo=ethicalhacking&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat%20Hunting-181717?style=for-the-badge&logo=cybersecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-4479A1?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maltego-2C3E50?style=for-the-badge&logo=maltego&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+</p>
+
+
+## 🎓 Certificações & Cursos  
+
+📌 **Segurança da Informação & Cibersegurança**  
+🔹 **CyberOps Associate** – Cisco *(2024)*  
+🔹 **Fortinet Certified Associate Cyber Security** – Fortinet *(2023)*  
+🔹 **CEH - Certified Ethical Hacker** – Acadia-TI *(2021)*  
+🔹 **Cross-Sector Cybersecurity Performance Goals (CPG)** – DHS *(2025)*  
+
+📌 **Privacidade & Governança**  
+🔹 **ONETRUST Certified Privacy Professional** – OneTrust *(2023)*  
+🔹 **EXIN Information Security Management (ISO/IEC 27001)** – Adapt Now *(2020)*  
+
+📌 **Auditoria & Qualidade**  
+🔹 **Auditor Interno ISO 9001:2015** – QWS Academy *(2025)*  
 [![Credly](https://img.shields.io/badge/Credly-FFA500?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/marcelo-pinto-da-silva)
 
 _(Mais certificações disponíveis no LinkedIn)_  
-
-
-
----
-
-## 🔥 Habilidades Técnicas
-✔️ **Segurança da Informação** – SIEM, Firewalls, IDS/IPS, DLP, VPN  
-✔️ **Auditoria & Compliance** – ISO 27001, LGPD, GDPR, ITIL, COBIT  
-✔️ **Gerenciamento de Riscos** – Análise de Vulnerabilidades, Threat Intelligence  
-✔️ **Cloud Security** – AWS, Azure, OCI  
-✔️ **Forense Digital & Pentest** – Ethical Hacking, Cyber Threat Hunting  
-✔️ **Administração de Sistemas** – Active Directory, Linux, Windows Server  
-✔️ **Monitoramento & Resposta a Incidentes**  
-
----
 
 ## 📌 Experiência Profissional
 
