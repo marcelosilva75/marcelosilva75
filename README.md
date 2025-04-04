@@ -9,12 +9,12 @@
 📧 [si_marcelo@hotmail.com](mailto:si_marcelo@hotmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/marcelo-silva-a439a28/)  
 
-## 🛡️ Sobre mim
+## 🙋‍♂️ Sobre mim
 Profissional com mais de 15 anos de experiência em **Segurança da Informação**, com foco em **governança, auditoria e implementação de soluções de cibersegurança**.  
 Atuação em **infraestrutura crítica**, garantindo conformidade com normas como **ISO 27001 e LGPD**.  
 
 💼 Experiência em empresas como **M&P Construtora, RIOPREVIDÊNCIA e Governança Brasil**.  
-🛠️ Especialista em **SIEM, Firewalls, DLP, IDS/IPS, Análise de Vulnerabilidades, Cloud Security e Threat Intelligence**.  
+🔐 Especialista em **SIEM, Firewalls, DLP, IDS/IPS, Análise de Vulnerabilidades, Cloud Security e Threat Intelligence**.  
 📜 Certificações em **ISO 9001, CyberOps Associate, Fortinet Certified, CEH, OneTrust Privacy Professional, entre outras**.  
 
 ---
