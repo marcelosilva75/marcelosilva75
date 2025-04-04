@@ -39,9 +39,9 @@ Atuação em **infraestrutura crítica**, garantindo conformidade com normas com
 ### 🔐 Segurança da Informação  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FE7A16?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-5A5A5A?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Kaspersky](https://img.shields.io/badge/Kaspersky-008000?style=for-the-badge&logo=kaspersky&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-FF5733?style=for-the-badge&logo=security&logoColor=white)
+
 
 ### ☁️ Cloud & Infra  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
