@@ -62,12 +62,15 @@ Atuação em **infraestrutura crítica**, garantindo conformidade com normas com
 🔹 **CyberOps Associate** – Cisco (2024)  
 🔹 **Fortinet Certified Associate Cyber Security** – Fortinet (2023)  
 🔹 **ONETRUST Certified Privacy Professional** – OneTrust (2023)  
-🔹 **CEH - Certified Ethical Hacker** – Acadia-TI (2021)  
+🔹 **CEH - Certified Ethical Hacker** – Acadia-TI (2021) 
 🔹 **Auditor Interno ISO 9001:2015** – QWS Academy (2025)  
 🔹 **Cross-Sector Cybersecurity Performance Goals (CPG)** – DHS (2025)  
 🔹 **EXIN Information Security Management (ISO/IEC 27001)** – Adapt Now (2020)  
+[![Credly](https://img.shields.io/badge/Credly-FFA500?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/marcelo-pinto-da-silva)
 
 _(Mais certificações disponíveis no LinkedIn)_  
+
+
 
 ---
 
