@@ -147,7 +147,7 @@ _(Mais certificações disponíveis no LinkedIn)_
 
 ## 📌 Experiência Profissional
 
-### 🔹 **Analista de Segurança da Informação Sênior** | *M&P Construtora e Incorporadora (2023 - Atual)*  
+### 🔹 **Analista de Segurança da Informação Sênior** | *M&P Construtora e Incorporadora (2023 - 2025)*  
 - Desenvolvimento e implementação de **políticas de segurança da informação**  
 - **Auditorias internas** e avaliações de risco (ISO 27001, LGPD)  
 - Implementação de **SIEM, IDS/IPS, Firewalls** e outras soluções de cibersegurança  
